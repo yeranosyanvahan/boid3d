@@ -24,7 +24,7 @@ https://github.com/yeranosyanvahan/boid3d/assets/69711561/ba987c6e-559b-4887-817
 
 ## Forces in 3D
 
-The forces are the same as in the 2D, but there are roll and yaw axises that have been implemented.
+The forces are the same as in the 2D, but there are roll and yaw axises that needs to be been implemented.
 
 ## Atmosphere
 The atmosphere is the same as described in the boids2d project.
