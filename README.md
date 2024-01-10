@@ -20,7 +20,7 @@ Here is how the project would look like.
 
 ## Demonstrations
 
-![Simulation View](https://github.com/yeranosyanvahan/boid3d/assets/69711561/ba987c6e-559b-4887-817a-e62ec252491d)
+https://github.com/yeranosyanvahan/boid3d/assets/69711561/ba987c6e-559b-4887-817a-e62ec252491d
 
 ## Forces in 3D
 
