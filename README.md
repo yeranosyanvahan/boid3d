@@ -3,6 +3,8 @@
 
 This project is the 3D version of the [boids2d](https://github.com/yeranosyanvahan/boid2d) project, designed to simulate the behavior of bird-like entities, known as "boids", in a three-dimensional environment. The `boids3d` simulation extends the principles of the `boids2d` model, incorporating additional spatial dynamics and realistic 3D atmospheric effects.
 
+Here is how the project would look like.
+
 ## Introduction
 `boids3d` offers an immersive and interactive experience by simulating the flight patterns and group behaviors of boids in a three-dimensional space. This project aims to demonstrate the complex dynamics of flocking behavior while allowing for exploration of individual boid interactions in a more comprehensive environment.
 
